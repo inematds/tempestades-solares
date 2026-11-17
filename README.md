@@ -1,5 +1,29 @@
 # Tempestades solares
 
-Vídeos educativos independentes, roteiros, fontes NOAA e ilustrações.
+**[Português](README.md) · [English](README.en.md) · [Español](README.es.md)**
 
-Os cinco MP4 originais serão disponibilizados no release videos-v1.0.0 deste repositório. As chamadas são hipóteses educativas, sem anúncio datado de apagão.
+[![Tempestades solares](guia/assets/banner.jpg)](https://inematds.github.io/tempestades-solares/guia/)
+
+## O que é
+
+Vídeos educativos independentes do Nei sobre os fenômenos solares e seus efeitos na infraestrutura. Para quem quer interpretar alertas da NOAA, conhecer a história e preparar a família para falhas de serviço. Basta assistir ou ler. As chamadas são hipóteses educativas; não anunciam apagão mundial nem uma data.
+
+## Assistir e baixar
+
+- [Página com os vídeos e as explicações](https://inematds.github.io/tempestades-solares/guia/)
+- [MP4 Full HD, legendas SRT e capas](https://github.com/inematds/tempestades-solares/releases/tag/videos-v1.0.0)
+- [Manifesto com tamanho e SHA-256](videos/manifest.json)
+
+Os vídeos são em português: impacto (1 min 42 s), leitura da NOAA (2 min 07 s) e história/proteção (8 min 11 s). Os dois primeiros têm formatos 16:9 e 9:16; o longo tem 16:9. Cada vídeo funciona sozinho.
+
+## Conteúdo do repositório
+
+- `conteudo/`: roteiros, fontes, créditos e verificações da produção.
+- `assets/`: ilustrações, imagens de referência e capturas dos dashboards.
+- `producao/`: scripts históricos, dependentes do ambiente INEMA.
+- `guia/`: página de acesso em português, inglês e espanhol. Vídeos e capturas permanecem no idioma original.
+- `videos/`: manifesto dos arquivos; os MP4 grandes ficam nos Releases.
+
+## Fontes e reutilização
+
+NOAA/SWPC, National Weather Service, USGS, NASA e SpaceWeatherLive. Os créditos completos estão em [FONTES-E-CREDITOS.txt](conteudo/FONTES-E-CREDITOS.txt). As mídias de terceiros mantêm suas próprias condições de uso. Não há autorização genérica implícita sobre todas as imagens. Conteúdo educativo gratuito: https://inema.club.
