@@ -11,7 +11,7 @@ Nei’s independent educational videos about solar phenomena and their effects o
 ## Watch and download
 
 - [Page with the videos and explanations](https://inematds.github.io/tempestades-solares/guia/en/)
-- [Full HD MP4, SRT captions, and covers](https://github.com/inematds/tempestades-solares/releases/tag/videos-v1.0.0)
+- [Full HD MP4, SRT captions, and covers](https://github.com/inematds/tempestades-solares/releases/tag/videos-v1.1.0)
 - [Manifest with file size and SHA-256](videos/manifest.json)
 
 The videos are in Portuguese: impact (1 min 42 s), reading NOAA alerts (2 min 07 s), and history/protection (8 min 11 s). The first two are available in 16:9 and 9:16 formats; the longer one is 16:9. Each video stands alone.

@@ -1,4 +1,4 @@
-Arquivos produzidos e QA aprovado. GitHub Release verificado. Agendamento Lives10 confirmado por API no canal UCSWmQN1X3aOMHF_tR9uNuIg.
-https://www.youtube.com/watch?v=26TzrpESwjk | 2026-11-17T12:00:00-03:00
-https://www.youtube.com/watch?v=AqizUWBcGf8 | 2026-11-17T18:00:00-03:00
-Observação: preferências posteriores de movimento/CTA registradas, sem nova renderização destes MP4.
+Visual refeito em 17/11/2026 (v3): mesma fala e avatar, imagem por momento, troca a cada 2–4 s, CTA em tela limpa.
+GitHub Release videos-v1.1.0. Trocado no Lives10 (canal UCSWmQN1X3aOMHF_tR9uNuIg), mesmo horário; o vídeo antigo ficou privado e fora da agenda (não apagado).
+https://www.youtube.com/watch?v=dJsnya-LcPU | 2026-11-17T15:00:00Z | substitui 26TzrpESwjk
+https://www.youtube.com/watch?v=yCg0iBgxLIE | 2026-11-17T21:00:00Z | substitui AqizUWBcGf8
